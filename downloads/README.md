@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [100MB](./100MB)
+- [chrome-win64](./chrome-win64)
 
 ---
 
